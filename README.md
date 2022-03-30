@@ -1,2 +1,2 @@
-# Test
-Folder with repositories where i can test something and learn new knowledge
+# Learning ASP.NET 6 Core on metanit.com
+30/03/2022 Chapter 1
