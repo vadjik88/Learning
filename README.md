@@ -5,5 +5,6 @@
     <li>03/31/2022 Chapter 2. "Basics of Asp.net Core"</li>
     <li>03/31/2022 Chapter 3. "Dependency Injection"</li>
     <li>03/31/2022 Chapter 4. "Routing"</li>
+    <li>03/31/2022 Chapter 5. "Static Files"</li>
   </ul>
 </p>
