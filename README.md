@@ -6,5 +6,6 @@
     <li>03/31/2022 Chapter 3. "Dependency Injection"</li>
     <li>03/31/2022 Chapter 4. "Routing"</li>
     <li>03/31/2022 Chapter 5. "Static Files"</li>
+    <li>03/31/2022 Chapter 6. "Configuration"</li>
   </ul>
 </p>
