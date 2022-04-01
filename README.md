@@ -11,5 +11,7 @@
     <li>04/01/2022 Chapter 8. "Application States. Cookies and Sessions"</li>
     <li>04/01/2022 Chapter 9. "Error Processing"</li>
     <li>04/01/2022 Chapter 10. "Results API"</li>
+    <li>04/01/2022 Chapter 11. "Web API. Example"</li>
+    <li>04/01/2022 Chapter 12. "Entity Framework"</li>
   </ul>
 </p>
