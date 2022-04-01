@@ -8,5 +8,6 @@
     <li>03/31/2022 Chapter 5. "Static Files"</li>
     <li>03/31/2022 Chapter 6. "Configuration"</li>
     <li>03/31/2022 Chapter 7. "Logging"</li>
+    <li>04/01/2022 Chapter 8. "Application States. Cookies and Sessions"</li>
   </ul>
 </p>
